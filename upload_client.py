@@ -20,28 +20,6 @@ Champlain College CSI-235, Spring 2018
 The following code was written by Joshua Auerbach (jauerbach@champlain.edu)
 "The following code are provided by Prof. Joshua Auerbach"
 "And modified by Brian Nguyen"
-
-
-
-"""
-Author:              Brian Nguyen	And Matthew Schwartzkopf
-Class:               CSI-235
-Assignment:          Lab 3
-Date Assigned:       Feb 2, 2018
-Due Date:            March 2,2018 11:59 PM
-
-Description:
-
-
-This code has been adapted from that provided by Prof. Joshua Auerbach: 
-
-Champlain College CSI-235, Spring 2018
-The following code was written by Joshua Auerbach (jauerbach@champlain.edu)
-
-
-"The following code are provided by Prof. Joshua Auerbach"
-"And modified by Brian Nguyen"
-
 """
 
 import argparse
